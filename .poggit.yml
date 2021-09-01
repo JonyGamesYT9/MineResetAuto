@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/JonyGamesYT9/MineResetAuto
+build-by-default: true
+branches:
+- main
+projects:
+  MineResetAuto:
+    path: ""
+...
